@@ -1,0 +1,6 @@
+api/node_modules
+client/node_modules
+client/.next
+client/next.config.js
+api/.env
+client/.env
