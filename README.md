@@ -37,4 +37,8 @@ AUTH_SECRET_KEY = any-string-will-do
 Edit config.json in api/config with your database connection information then
 run
 
+`sequelize-cli db:migrate`
+
+Then start the server
+
 `yarn start`
